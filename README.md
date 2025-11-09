@@ -1,5 +1,5 @@
 # YoloV1 
-Slightly modified Yolo V1 implementation from scratch.
+Slightly modified Yolo V1 implementation from scratch with keras.
 
 1. Required libraries:
    - tensorflow
