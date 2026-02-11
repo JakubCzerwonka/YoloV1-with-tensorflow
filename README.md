@@ -1,4 +1,4 @@
-Slightly modyfied YOLO v1 implementation with Tensorflow.
+Slightly modyfied YOLO v1 implementation with tensorflow.
 
 ![Ground truth and Predictions](preds.jpg)
 
