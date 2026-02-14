@@ -46,5 +46,8 @@ learning less stable. Augmentations used:
 - CoarseDropout
 - ImageCompression
 
+**Memory issues**:
+- Due to lack of memory, the model was trained only on 16 batch size, 350 x 350 resolution and loss in inference was evaluated only for 1000 images.
+  
 **Project's potential extensions**:
 - mAP metric
